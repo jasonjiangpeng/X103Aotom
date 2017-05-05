@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/xian1"
+    android:layout_height="match_parent">
+    <include layout="@layout/toolbar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:background="@color/baise"
+        android:id="@+id/mode"
+         android:layout_marginTop="10px">
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:text="@string/luxiangmodel" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/gray_more_icon"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:background="@color/baise"
+
+        android:layout_marginTop="1px">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:text="@string/luxiangkaiguan" />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:button="@null"
+            android:checked="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/openbox"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:background="@color/baise"
+        android:id="@+id/fenbianlv"
+        android:layout_marginTop="1px">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:text="@string/fenbianlv" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/gray_more_icon"
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:background="@color/baise"
+        android:id="@+id/time"
+        android:layout_marginTop="1px">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:text="@string/luxiangTime" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/gray_more_icon"
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:background="@color/baise"
+        android:id="@+id/mirror"
+        android:layout_marginTop="1px">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:text="@string/mirror" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="60px"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/gray_more_icon"
+            />
+    </RelativeLayout>
+
+
+
+</LinearLayout>

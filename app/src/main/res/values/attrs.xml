@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mirrormul">
+        <item>关闭镜像</item>
+        <item>水平镜像</item>
+        <item>垂直镜像</item>
+        <item>全部镜像</item>
+    </array>
+    <array name="recoderTime">
+        <item>1分钟</item>
+        <item>3分钟</item>
+        <item>5分钟</item>
+
+    </array>
+    <array name="resolutionratio">
+        <item>1080p</item>
+        <item>720p</item>
+    </array>
+    <array name="luxiangmoshi">
+        <item>手动</item>
+        <item>自动</item>
+    </array>
+</resources>

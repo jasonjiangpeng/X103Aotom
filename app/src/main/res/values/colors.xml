@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="baise">#ffffff</color>
+    <color name="hongse">#FF4081</color>
+    <color name="fonthei1">#666666</color>
+    <color name="fonthei3">#333333</color>
+    <color name="beijing1">#f7f7f7</color>
+    <color name="fonthei2">#999999</color>
+    <color name="xian1">#d9d4d6</color>
+</resources>

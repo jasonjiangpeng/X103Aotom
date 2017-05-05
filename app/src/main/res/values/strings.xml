@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">X103Aotom</string>
+    <string name="setting">设置</string>
+    <string name="checkupdata">检查更新</string>
+    <string name="about">关于</string>
+    <string name="currentversion">当前版本:1.0.6</string>
+    <string name="equipment">装置</string>
+    <string name="luxiang">录像</string>
+    <string name="luxiangTime">录像时间</string>
+    <string name="fenbianlvxuanze">分辨率选择</string>
+    <string name="mirror">镜像</string>
+    <string name="luxiangmodel">录像模式</string>
+    <string name="luxiangkaiguan">录像开关</string>
+    <string name="fenbianlv">分辨率</string>
+    <string name="luxiangshichang">录像时长</string>
+    <string name="banben">v1.0</string>
+    <string name="geshihua">格式化</string>
+    <string name="huifuchuchangshhezhi">恢复出厂设置</string>
+    <string name="banbenname">版本</string>
+    <string name="timershow">02:41</string>
+</resources>
